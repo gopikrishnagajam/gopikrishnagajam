@@ -1,5 +1,13 @@
-# 💫 About Me:
-## Hi there 👋 I'm Gopi Krishna Gajam<br><br>🔭 **I’m currently working on:**  <br>- Building intelligent, scalable systems blending AI, DevOps, and full-stack engineering.  <br>- Exploring AI-powered automation for developer workflows and infrastructure reliability.<br><br>🌱 **I’m currently learning:**  <br>- Advanced cloud-native architectures  <br>- GPT function calling and AI-driven decision workflows  <br>- Cutting-edge DevOps practices and MLOps integration<br><br>👯 **I’m looking to collaborate on:**  <br>- AI/ML-based automation tools  <br>- Full-stack web/mobile applications  <br>- Infrastructure reliability & DevOps pipelines<br><br>💬 **Ask me about:**  <br>- Python, SQL, JavaScript, Bash/Shell scripting  <br>- Django, Flask, React, Node.js, PyTorch, Keras  <br>- AWS, Azure, GCP, Docker, Kubernetes, Snowflake, Spark  <br>- System design & REST API best practices  <br><br>📫 **How to reach me:**  <br>- Email: [gopikrishnagajam@gmail.com](mailto:gopikrishnagajam@gmail.com)  <br>- LinkedIn: [linkedin.com/in/gopikrishnagajam](https://www.linkedin.com/in/gopikrishnagajam/)  <br>- GitHub: [github.com/gopikrishnagajam](https://github.com/gopikrishnagajam)  <br>- LeetCode: [leetcode.com/u/user0469uW/](https://leetcode.com/u/user0469uW/)  <br><br>😄 **Pronouns:** He/Him  <br><br>⚡ **Fun fact:**  <br>I’ve solved 200+ problems on LeetCode, but still spend 15 minutes deciding on variable names!  <br><br>---<br><br>### 🚀 Projects<br>- **[ShopNextDoor](#)** — Hyperlocal e-commerce platform with role-based dashboards, OTP order fulfillment, and AWS deployment.  <br>- **[AI-Powered Outcome Prediction](#)** — GPT-based prediction engine for structured/unstructured data with real-time Streamlit UI.  <br>- **[StudyBuddy](#)** — Collaborative study platform with secure authentication, real-time chat, and role-based access.  <br>- **[COVID-19 Data Mining Analysis](#)** — ML modeling (94.56% accuracy) with geospatial visualizations for outbreak prediction.<br><br>---<br><br>### 🏆 Certifications<br>- AWS Cloud Practitioner  <br>- HackerRank SQL Advanced  <br>- FreeCodeCamp Front-End Developer
+# 💫 About Me
+
+Hi 👋 I’m **Gopi Krishna Gajam**, a detail-oriented Software Engineer with a passion for building scalable, intelligent systems that blend **AI, DevOps, and full-stack engineering**.
+
+- 🚀 Experienced in **Python, SQL, JavaScript**, and frameworks like **Django, Flask, React, PyTorch, Keras**.  
+- ☁️ Skilled with **AWS, Azure, GCP, Docker, Kubernetes, Snowflake, Spark** for cloud-native and data-driven solutions.  
+- 🤖 Enthusiast in **AI-powered automation** and **GPT-based decision workflows** for smarter infrastructure and products.  
+- 🛠 Strong in **system design, REST API architecture, and database optimization**.  
+- 📊 Proven track record with projects in **e-commerce, predictive modeling, and collaborative platforms**.  
+- 🏆 Certified: **AWS Cloud Practitioner**, **HackerRank SQL Advanced**, **FreeCodeCamp Front-End Developer**.
 
 
 ## 🌐 Socials:
